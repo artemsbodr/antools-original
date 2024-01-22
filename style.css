@@ -1,0 +1,28 @@
+
+.section-hero-form{
+    position: relative;
+    width: 497px;
+}
+.section-hero-input{
+    width: 497px;
+    padding-top:21px ;
+    padding-bottom:22px ;
+    padding-left: 55px;
+ background-color: #283036;
+ font-family: Poppins;
+ font-size: 16px;
+ font-weight: 600;
+ line-height: 24px;
+position: absolute;
+word-wrap: break-word;
+top: 8px;
+right: 11px;
+}
+.section-hero-botton{
+
+    width: 130px;
+    padding: 12px 0;
+        background: #FF6E30;
+        color:white;
+        border-radius: 8px
+    }
